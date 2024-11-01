@@ -18,5 +18,7 @@ Design com Canva: Montei o eBook no Canva, organizando o conteúdo em um formato
 🚀 Resultados:
 O eBook "O Poder das IAs" contém cinco capítulos explicativos, com ilustrações e um design amigável, ideal para ser compartilhado em redes sociais ou como um projeto introdutório em IA. O resultado foi um material educativo e visualmente atraente, que simplifica um tema complexo para qualquer iniciante.
 
+[LINK PARA O E-BOOK AQUI]()
+
 💭 Reflexão (Opcional):
-O maior desafio foi encontrar o equilíbrio entre explicar os conceitos técnicos e manter o conteúdo acessível e interessante. Criar um eBook visualmente "natty" com IA foi uma ótima experiência para entender o potencial dessas tecnologias tanto na criação de conteúdo quanto no design.
+Criar um eBook visualmente "natty" com IA foi uma ótima experiência para entender o potencial dessas tecnologias tanto na criação de conteúdo quanto no design.
